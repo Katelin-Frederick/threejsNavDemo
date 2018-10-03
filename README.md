@@ -13,6 +13,7 @@ Katelin Frederick 2018
 * HTML
 * SASS
 * CSS
+* javascript
 * Three.js
 * ThreexDomEvents
 * Bootstrap

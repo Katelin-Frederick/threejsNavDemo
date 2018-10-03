@@ -100,7 +100,7 @@ pricingCube.position.x = 20;
 contactCube.position.x = 60;
 
 // animate scrolling, event listeners for cubes and nav links
-domEvents.addEventListener(aboutCube, 'touchend', function() {
+domEvents.addEventListener(aboutCube, 'touchstart', function() {
   const about = $('#aboutSection').position().top;
 
   $('html, body').animate(
@@ -133,7 +133,7 @@ domEvents.addEventListener(servicesCube, 'click', function() {
   );
 });
 
-domEvents.addEventListener(servicesCube, 'touchend', function() {
+domEvents.addEventListener(servicesCube, 'touchstart', function() {
   const services = $('#servicesSection').position().top;
 
   $('html, body').animate(
@@ -155,7 +155,7 @@ domEvents.addEventListener(pricingCube, 'click', function() {
   );
 });
 
-domEvents.addEventListener(pricingCube, 'touchend', function() {
+domEvents.addEventListener(pricingCube, 'touchstart', function() {
   const pricing = $('#pricingSection').position().top;
 
   $('html, body').animate(
@@ -177,7 +177,7 @@ domEvents.addEventListener(contactCube, 'click', function() {
   );
 });
 
-domEvents.addEventListener(contactCube, 'touchend', function() {
+domEvents.addEventListener(contactCube, 'touchstart', function() {
   const contact = $('footer').position().top;
 
   $('html, body').animate(

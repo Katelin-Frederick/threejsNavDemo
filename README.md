@@ -3,22 +3,35 @@ Navigation using three.js
 
 ## Description
 
-This site is a work in progress of sorts.  It is simply a fun little idea I had to make a navigation element using three.js.
+Site that uses three.js for the navigation element.
 
 ## Author
 
-Katelin Frederick 2018 
+Katelin Frederick 2018
 
-## Tools Used
+## Table of Contents
+* [About this Project](#about-this-project)
+* [Goal of this Project](#goal-of-this-project)
+* [Technologies](#technologies)
+* [What I learned](#what-i-learned)
+* [Demo](#demo)
+
+## About this Project
+This project is just a fun idea of mine to create a three dementional navigation element.  I chose to use the Three.js library to accomplish this task.
+
+## Goal for this Project
+The goal of this project was to learn more about the Three.js library and create a three dementional navigation element.
+
+## Technologies
 * HTML
 * SASS
-* CSS
-* javascript
-* Three.js
-* ThreexDomEvents
+* javaScript
 * Bootstrap
 * jQuery
+* Three.js library
 
+## What I learned
+From this project I learned a lot about using third party libraries and how to create a scene with the Three.js library.
+## Demo
 
-## Purpose of this Project
-The purpose of this project was to explore the three.js library and work with 3D elements.
+![Demo](demos/demo.gif)

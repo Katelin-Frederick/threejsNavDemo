@@ -34,4 +34,4 @@ The goal of this project was to learn more about the Three.js library and create
 From this project I learned a lot about using third party libraries and how to create a scene with the Three.js library.
 ## Demo
 
-![Demo](demos/demo.gif)
+![demo](demos/demo.gif)

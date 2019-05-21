@@ -1,9 +1,3 @@
-//  Event Listener for Loading Page
-window.addEventListener("load", function() {
-  const loader = document.querySelector(".loadingBar");
-  loader.className += " hidden";
-});
-
 // variable to attach scene to
 const container = document.querySelector('.sceneContainer');
 

@@ -10,10 +10,10 @@ const domEvents = new THREEx.DomEvents(camera, renderer.domElement);
 
 /****** 3D Landing ******/
 
-// sets size of the scene
+// Sets Size of the Scene
 renderer.setSize(window.innerWidth,window.innerHeight);
 
-// sets the color of the scene
+// Sets the Color of the Scene
 renderer.setClearColor(0x262626, 0.5);
 
 // attach scene to the DOM
